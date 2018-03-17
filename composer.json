@@ -1,12 +1,12 @@
 {
-    "name": "phoenixdigi/elementor",
-    "description": "EP",
+    "name": "phoenixdigi/pagebuilder",
+    "description": "",
     "type": "library",
     "license": "proprietary",
     "authors": [
         {
-            "name": "PDVN Team",
-            "email": "contact@phoenixdigi.vn"
+            "name": "ABC",
+            "email": "contact@abcxyz.com"
         }
     ],
     "minimum-stability": "dev",
